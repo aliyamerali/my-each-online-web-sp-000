@@ -8,5 +8,5 @@ def my_each(input) # put argument(s) here
   else
     "No block given"
   end
-  return input
+  input
 end
